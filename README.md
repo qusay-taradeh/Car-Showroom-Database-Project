@@ -1,8 +1,6 @@
 # Car Showroom Database Project  
 A system for collecting and managing comprehensive data related to cars, customers, employees, and showroom branches.
 
----
-
 ## Summary  
 Implementation of a database-backed web application that provides an innovative way to handle various car attributes (e.g., model type, color, engine specifications, pricing), manage customer and employee records, and support operations like searching, filtering, renting, and purchasing vehicles.  
 
@@ -40,8 +38,6 @@ This application should be able to perform the following tasks:
 9. **Output & Reporting**  
    - Display relevant data (e.g., car listings, employee details, rental agreements).  
    - Provide options to generate simple reports or logs of activities.  
-
----
 
 ## Authors 
 Qusay Taradeh, Muayad Karakra, Aseel Abd Elhaq, Deema Abu Nimeh
